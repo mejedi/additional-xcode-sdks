@@ -1,0 +1,1 @@
+#warning SampleSDK_Sample_framework
